@@ -12,6 +12,7 @@
 
 ```shell
 -> git clone git@github.com:jaeheng/gulp-page-starter.git
+-> cd gulp-page-starter
 -> npm install
 ```
 
